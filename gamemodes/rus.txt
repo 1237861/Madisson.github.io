@@ -1,0 +1,11 @@
+C:\Users\dano1\Desktop\mevius rp\pawno\include\weapon-config.inc(3484) : предупреждение: рекурсия в InflictDamage: вызов с WC_SetPlayerHealth C:\Users\dano1\Desktop\mevius rp\pawno\include\weapon-config.inc(1188)
+Для отключения вывода рекурсий: #pragma disablerecursion
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+Размер заголовка:	   28892 байт
+Размер кода:		11530948 байт
+Размер данных:		28516368 байт
+Размер стэка\кучи:	 4194304 байт; Примерное макс. использование: Неизвестно, из-за рекурсий
+Всего требуется:	44270512 байт
+
+Предупреждений:1.
